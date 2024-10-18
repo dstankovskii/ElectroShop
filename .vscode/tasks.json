@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/ElectroShop.csproj"
+                "${workspaceFolder}/ElectroShop.sln"
             ],
             "problemMatcher": "$msCompile",
             "group": {
